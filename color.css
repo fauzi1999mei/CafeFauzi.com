@@ -1,0 +1,101 @@
+
+
+body{
+    background-color:rgb(167, 117, 133);
+    color: #BcBcBc;
+    font-family: "Open Sans" Arial, Helvetica, sans-serif;
+    font-size: 17px  ;
+    font-weight: 400;
+    padding: 15px;
+    margin: 0;
+}
+.tm-container{
+    max-width: 640px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.tm-text-white{
+    color : white;
+
+
+}
+.tm-page-head-container{
+    text-align:center;
+}
+
+
+.tm-page-header{
+    
+    vertical-align: baseline;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 35px;
+    font-size: 2.1rem;
+    font-weight: 400;
+}
+.tm-main-container{
+    color: white;
+}
+#tm-intro-image{
+    background-image:url(../download.jpg) ;
+    background-position: center;
+    background-size: cover;
+    min-height: 425px;
+}
+.tm-section-header{
+    color: #202020;
+    text-align: center;
+    font-weight: 400;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+table{
+    width: 100%;
+    border-spacing: 0;
+}
+td{
+    text-align: center;
+    padding: 10px 15px;
+    color: black;
+
+}
+.tm-text-left{
+    text-align: center;
+}
+th{
+    color: #333333;
+    font-weight: 400;
+    font-size: 1.2rem;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+tr:nth-child(odd){
+    background-color: #e5e5e5;
+
+}
+tr.tm-tr-header{
+    background-color: #c4cdd6 ;
+    height: 50px;
+}
+
+.tm-section{
+    padding-top: 20px ;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+
+
+}
+.tm-section-small{
+    font-size: 1rem;
+    line-height: 1.7;
+
+}
+
+.type1{
+    width: auto;
+    display: block;
+    margin : 0PX auto ;
+}
+
